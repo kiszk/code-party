@@ -1,0 +1,21 @@
+questions:
+  started:
+    # 最初の一歩を踏み出せましたか？
+    # Did you start developing?
+    |
+      Yes
+  groups:
+    # どのグループに参加しましたか？
+    # Which groups did you join?
+    - Spark 
+  next:
+    # またコード懇親会があったら参加したいですか？
+    # Do you want to participate if there is a code party?
+    |
+      Yes
+  etc:
+    # なにか思ったことがあれば自由に書いてください。
+    # You can send any feedbacks to organizers.
+    |
+      Very good oppotunity to know Arrow related works among various languages/tools
+      Very good to find possible contributors to Spark
